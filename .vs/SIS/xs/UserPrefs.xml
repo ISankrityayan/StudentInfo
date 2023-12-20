@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{9E6787C1-D7C2-43AA-8E41-829119DAD3B1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SIS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SIS/BLL/Implementation/DatabaseInteraction.cs">
+    <Files>
+      <File FileName="SIS/Program.cs" />
+      <File FileName="SIS/DAL/Models/Course.cs" />
+      <File FileName="SIS/DAL/Models/Enrollment.cs" />
+      <File FileName="SIS/DAL/Models/Payment.cs" />
+      <File FileName="SIS/DAL/Models/Student.cs" />
+      <File FileName="SIS/DAL/Models/Teacher.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="SIS/Utilities/CoonectionStringUtility.cs" />
+      <File FileName="SIS/BLL/Interface/IDatabaseInteraction.cs" />
+      <File FileName="SIS/BLL/Implementation/DatabaseInteraction.cs" Line="11" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SIS" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="SIS" expanded="True">
+              <Node name="BLL" expanded="True">
+                <Node name="Implementation" expanded="True">
+                  <Node name="DatabaseInteraction.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="DAL" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
